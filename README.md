@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surangaprabash&label=Profile%20views&color=0e75b6&style=flat" alt="surangaprabash" /> </p>
 
-- 🌱 I’m currently learning **Laravel, React,Android Studio,Kotlin,java**
+- 🌱 I’m currently learning **Laravel, React, Android Studio, Flutter, Kotlin, java**
 
 - 📫 How to reach me **surangaprabash1999@gmail.com**
 
